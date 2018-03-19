@@ -1,0 +1,50 @@
+.jumbotron {
+  padding-top: 90px;
+  height: 500px;
+  margin-bottom: 0;
+  background-image: url('img/entertainment.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#recommendation h1{
+  font-family: 'Vast Shadow', cursive;
+  color: lime;
+  padding-top:20px;
+  padding-bottom: 30px;
+}
+
+#recommendation h2{
+  color: yellow;
+  font-style: oblique;
+}
+
+#recommendation p{
+  color: white;
+}
+
+#content h2{
+  font-family: serif;
+  font-style: bold;
+  color: red;
+  font-size: 40px;
+}
+
+#content p{
+  font-size: 20px;
+  color: lightslategrey;
+}
+
+#introduction h3{
+  font-size: 20px;
+  color:magenta;
+}
+
+#introduction p{
+  color: white;
+  padding-top: 10px;
+}
+
+.second{
+  background-color: black;
+}
