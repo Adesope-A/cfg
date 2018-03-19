@@ -1,0 +1,44 @@
+.jumbotron {
+  padding-top: 90px;
+  min-height: 300px;
+  margin-bottom: 0;
+  background-image: url('img/food.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#recommendation h1{
+  font-family: 'Vast Shadow', cursive;
+  color: black;
+}
+
+#recommendation h1 small{
+  color: black;
+}
+
+#content h2{
+  font-style: bold;
+  color: lightcoral;
+  font-size: 40px;
+}
+
+#content p{
+  font-size: 20px;
+  color: darkgrey;
+}
+
+#introduction h3{
+  font-size: 20px;
+  color:darkred;
+}
+
+#introduction p{
+  color: black;
+  padding-top: 10px;
+}
+
+.second {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  height: 300px;
+}
