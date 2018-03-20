@@ -38,3 +38,15 @@ a .navbar-brand {
   color: white;
   font-size: 50px;
 }
+
+.welcomemessage h2 {
+    text-align: center;
+    color: lightcoral;
+    font-size: 30px;
+}
+
+.welcomemessage p {
+    text-align: center;
+    color: darkgrey;
+    font-size: 20px
+}
