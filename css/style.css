@@ -27,6 +27,11 @@ a .navbar-brand {
     font-size: 40px;
 }
 
+.header .my-nav navbar navbar-inverse{
+  position: fixed;
+  top: 0;
+}
+
 
 .sticky {
   position: fixed;
