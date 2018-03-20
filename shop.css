@@ -1,8 +1,8 @@
 .jumbotron {
   padding-top: 90px;
-  min-height: 300px;
+  min-height: 500px;
   margin-bottom: 0;
-  background-image: url('img/shop.jpg');
+  background-image: url('img/shopping.jpg');
   background-size: cover;
   background-attachment: fixed;
 }
@@ -19,13 +19,13 @@
 #content h2{
   font-family: serif;
   font-style: bold;
-  color: red;
+  color: lightcoral;
   font-size: 40px;
 }
 
 #content p{
   font-size: 20px;
-  color: lightslategrey;
+  color: darkgrey;
 }
 
 #introduction h3{
