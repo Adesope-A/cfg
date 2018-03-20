@@ -42,3 +42,32 @@
   padding-bottom: 40px;
   height: 300px;
 }
+
+.my-nav {
+    position: absolute !important;
+    /*top: 100px;*/
+    width: 100%;
+    z-index: 999 !important;
+    border: none !important;
+    border-radius: 0;
+}
+
+.my-nav .navbar-nav a{
+    color: white !important;
+    font-size: 20px;
+    font-family: helvetica;
+    font-weight: 200;
+}
+.my-carousel {
+    position: absolute;
+    top: -200px;
+}
+
+a .nav {
+    padding-right: 20;
+}
+
+a .navbar-brand {
+    color: black;
+    font-size: 40px;
+}
